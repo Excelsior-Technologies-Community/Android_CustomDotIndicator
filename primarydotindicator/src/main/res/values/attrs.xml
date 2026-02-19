@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PrimaryDotIndicator">
+
+        <!-- Total number of dots -->
+        <attr name="dotCount" format="integer" />
+
+        <!-- Currently selected dot -->
+        <attr name="selectedIndex" format="integer" />
+
+        <!-- Active dot color -->
+        <attr name="activeColor" format="color" />
+
+        <!-- Inactive dot color -->
+        <attr name="inactiveColor" format="color" />
+
+        <!-- Dot radius -->
+        <attr name="dotRadius" format="dimension" />
+
+        <!-- Space between dots -->
+        <attr name="dotSpacing" format="dimension" />
+
+    </declare-styleable>
+
+</resources>
+
