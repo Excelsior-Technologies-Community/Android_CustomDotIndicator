@@ -45,7 +45,7 @@ dependencyResolutionManagement {
 ### Add Dependency
 ```
 	dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_CustomErrorDialog:Tag'
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_CustomDotIndicator:1.0.0'
 	}
 ```
 
